@@ -63,28 +63,21 @@ Toda la información publicada intenta estar respaldada por pruebas reales y med
 
 ```text
 docs/
-    Documentación técnica
-    Pinout
-    Mediciones
-    Ingeniería inversa
-
-hardware/
-    Esquemáticos
-    PCB
-    Proyectos KiCad
+    
+sensors/
+    AP9335T/
+    NBES0303/
 
 firmware/
     Código fuente
 
-images/
-    Fotografías
-    PCB
-    Capturas
+adapters/
 
-measurements/
-    Mediciones
-    Pruebas
-    Osciloscopio
+tools/
+
+firmware/
+
+research/
 ```
 
 ---
