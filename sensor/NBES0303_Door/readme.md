@@ -25,6 +25,7 @@ Actualmente la información presentada corresponde a mediciones realizadas sobre
 Actualmente se está validando con:
 
 * NetBotz 150
+* NetBotz 570
 
 Se espera compatibilidad con otros equipos que utilicen el mismo puerto universal de sensores.
 
