@@ -39,10 +39,10 @@ Toda la información publicada intenta estar respaldada por pruebas reales y med
 
 | Modelo      | Estado              |
 | ----------- | ------------------- |
-| NetBotz 150 | 🔄 En investigación |
+| NetBotz 150 | 🔄 En pruebas |
 | NetBotz 250 | ⏳ Planificado       |
 | NetBotz 450 | ⏳ Planificado       |
-| NetBotz 750 | 🔄 En pruebas       |
+| NetBotz 570 | 🔄 En pruebas       |
 
 ---
 
