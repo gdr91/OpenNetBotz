@@ -112,6 +112,8 @@ Pin 6 o------[1 kΩ]------o/ o------o Pin 7
 * La resistencia de 1 kΩ podría actuar como limitador de corriente o formar parte del método de detección utilizado por el equipo.
 
 ---
+# Esquema
+<img src="Schematic.png" alt="Logo" width="300">
 
 # Estado de la información
 
