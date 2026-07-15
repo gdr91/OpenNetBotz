@@ -1,4 +1,4 @@
-# Sensor de Puerta Compatible NetBotz
+# Sensor de Puerta Compatible NetBotz NBES0303 o NBES0303s
 
 ## Descripción
 
