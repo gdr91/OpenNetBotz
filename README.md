@@ -52,7 +52,7 @@ Toda la información publicada intenta estar respaldada por pruebas reales y med
 | ----------------------- | --------------------- |
 | Temperatura (AP9335T)   | 🔄 Ingeniería inversa |
 | Temperatura y Humedad   | ⏳ Pendiente           |
-| Sensor de puerta        | 🔄 Ingeniería inversa |
+| Sensor de puerta        | ✅ Verificado mediante medición |
 | Detector de fugas       | ⏳ Pendiente           |
 | Contacto seco           | ⏳ Pendiente           |
 | Entrada analógica 0–5 V | ⏳ Pendiente           |
